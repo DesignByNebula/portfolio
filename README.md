@@ -3,11 +3,11 @@
 
 Nebula is a creative web development studio which specialises in the production of immersive web experiences.
 
-The draft portfolio will be available [here] (https://x.com)
+The draft portfolio will be available [here] (https://designbynebula.com)
 
-### Recent Projects include:
-[Lewisham Multi-Lingual Advice Service] (https://x.com)
-[Hilda Sackey Photography ] (https://x.com)
+### Recent Projects include (Note: projects are still incomplete):
+[Lewisham Multi-Lingual Advice Service] (https://lmlas.co.uk)
+[Hilda Sackey Photography ] (https://hildasackey.com)
 
 
 ### Skills
