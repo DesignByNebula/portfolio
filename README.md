@@ -1,7 +1,7 @@
-# portfolio
+
 ## portfolio draft
 
-Nebula is a ....
+Nebula is a creative web development studio which specialises in the production of immersive web experiences.
 
 The draft portfolio will be available [here] {https://xxxxx.com}
 
