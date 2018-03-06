@@ -1,13 +1,11 @@
 
 ## portfolio draft
 
-Nebula is a creative web development studio which specialises in the production of immersive web experiences.
-
-The draft portfolio will be available (isnt't live yet) [here] (http://www.designbynebula.com)
+The draft portfolio will be available (isnt't live yet) [here] ()
 
 ### Recent Projects include (Note: projects are still incomplete):
-[Lewisham Multi-Lingual Advice Service] (http://www.lmlas.co.uk)<br>
-[Hilda Sackey Photography] (http://www.hildasackey.com)<br>
+[Lewisham Multi-Lingual Advice Service] <br>
+[Hilda Sackey Photography] <br>
 
 
 ### Skills
